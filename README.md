@@ -14,7 +14,7 @@ SDL2_ttf
 ```
 
 ### How to play
-To play just run the following in a terminal:
+Run the following commands in a terminal:
 
 
 ```
